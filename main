@@ -1,0 +1,6 @@
+cd C:\Users\tsvet\Desktop\fivem-checkout
+git init
+git add .
+git commit -m "initial"
+git remote add origin https://github.com/exekobg1/rewardable-cheout.git
+git push -u origin main
